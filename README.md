@@ -133,7 +133,7 @@ Minha expertise abrange ReactJS, JavaScript, TypeScript, StencilJS, React Testin
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    width="100%"
+    width="300px"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=msilvalucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -142,7 +142,7 @@ Minha expertise abrange ReactJS, JavaScript, TypeScript, StencilJS, React Testin
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="100%" 
+      width="200px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=msilvalucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
