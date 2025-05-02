@@ -128,16 +128,21 @@ Minha expertise abrange ReactJS, JavaScript, TypeScript, StencilJS, React Testin
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img 
-    alt="GitHub Stats" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=msilvalucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  
-  <img 
-    alt="Top Langs" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=msilvalucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=msilvalucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=msilvalucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
